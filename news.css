@@ -3,7 +3,8 @@ body {
   background-image: url("textured-wall-background-texture.jpg");
   background-size: cover;
   font-weight: bold;
-  color: #8A3324;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: #ffffff;
 
 }
 
