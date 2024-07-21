@@ -5,9 +5,9 @@ body {
   color: #8A3324;
     background: linear-gradient(#a2d2ff, #EFB0C9);
     color: #ffffff;
+    height: 100vh;
 }
 
-}
 
 .dropdown {
   position: relative;
