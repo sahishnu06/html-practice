@@ -1,26 +1,24 @@
 body {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
+    sans-serif;
   background-size: cover;
   font-weight: bold;
-  color: #8A3324;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
-    color: #ffffff;
-    height: 100vh;
+  color: #8a3324;
+  background: linear-gradient(#a2d2ff, #efb0c9);
+  color: #ffffff;
+  height: 100vh;
 }
-
-
 .dropdown {
   position: relative;
   display: inline-block;
 }
-
 
 .dropdown-content {
   display: none;
   position: absolute;
   background-color: #f1f1f1;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 .dropdown-content a {
@@ -30,17 +28,17 @@ body {
   display: block;
 }
 .dropdown-content a:hover {
-background-color:	#D2B48C ; 
+  background-color: #d2b48c;
 }
 
 .dropdown:hover .dropdown-content {
-display: block;
+  display: block;
 }
 
 .dropdown:hover .dropbtn {
-background-color: 	#8f706a ;
+  background-color: #8f706a;
 }
 
-.text{
+.text {
   text-align: center;
 }
