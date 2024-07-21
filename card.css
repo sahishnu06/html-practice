@@ -1,7 +1,10 @@
 body {
     margin: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: #ffffff;
 }
+
 
 .avatar {
     width: 150px;
